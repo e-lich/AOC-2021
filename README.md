@@ -1,1 +1,3 @@
-# AOC_2021
+# AOC 2021
+My solutions for Advent of Code 2021 :) <br>
+Challenges: https://adventofcode.com/2021
